@@ -1,3 +1,4 @@
+#thanks to @kirkbyers for the original code
 #original located at https://github.com/ktbyers/pynet/blob/master/snmp/snmp_helper.py
 #edited to work with Python 3.x
 
